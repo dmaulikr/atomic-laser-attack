@@ -1,0 +1,446 @@
+
+textures.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boss1
+  rotate: false
+  xy: 0, 1
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+bigFighter
+  rotate: false
+  xy: 64, 8
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+artilleryLeft
+  rotate: false
+  xy: 109, 18
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: 0
+artilleryLeft
+  rotate: false
+  xy: 159, 18
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: 1
+artilleryRight
+  rotate: false
+  xy: 209, 18
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: 0
+artilleryRight
+  rotate: false
+  xy: 257, 18
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: 1
+healthBar1
+  rotate: false
+  xy: 305, 40
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+healthBar2
+  rotate: false
+  xy: 305, 28
+  size: 60, 10
+  orig: 60, 10
+  offset: 0, 0
+  index: -1
+artilleryRight_d
+  rotate: false
+  xy: 365, 25
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+field
+  rotate: false
+  xy: 403, 20
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+field_d
+  rotate: false
+  xy: 441, 20
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+starport
+  rotate: false
+  xy: 479, 2
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: 0
+starport
+  rotate: false
+  xy: 517, 2
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: 1
+starport
+  rotate: false
+  xy: 555, 2
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: 2
+starport
+  rotate: false
+  xy: 593, 2
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: 3
+starport
+  rotate: false
+  xy: 631, 2
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: 4
+starport_d
+  rotate: false
+  xy: 669, 2
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+factory
+  rotate: false
+  xy: 707, 18
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: 0
+factory
+  rotate: false
+  xy: 744, 18
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: 1
+factory
+  rotate: false
+  xy: 781, 18
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: 2
+factory
+  rotate: false
+  xy: 818, 18
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: 3
+factory
+  rotate: false
+  xy: 855, 18
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: 4
+factory_d
+  rotate: false
+  xy: 892, 18
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+healthBarPlayer
+  rotate: false
+  xy: 305, 16
+  size: 60, 10
+  orig: 60, 10
+  offset: 0, 0
+  index: -1
+factory_d_s
+  rotate: false
+  xy: 365, 0
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+factory_s
+  rotate: false
+  xy: 929, 32
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+atmosphericShip2
+  rotate: false
+  xy: 964, 32
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: 0
+trackingTower
+  rotate: false
+  xy: 985, 34
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: 0
+trackingTower
+  rotate: false
+  xy: 1008, 34
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: 1
+trackingTower
+  rotate: false
+  xy: 1031, 34
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: 2
+trackingTower_d
+  rotate: false
+  xy: 1054, 34
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+atmosphericShip1
+  rotate: false
+  xy: 1077, 34
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: 0
+atmosphericShip1
+  rotate: false
+  xy: 1097, 34
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: 1
+atmosphericShip1
+  rotate: false
+  xy: 1117, 34
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: 2
+enemyShip2
+  rotate: false
+  xy: 1137, 40
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+spinner
+  rotate: false
+  xy: 1163, 39
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: 1
+spinner
+  rotate: false
+  xy: 1184, 39
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: 2
+spinner
+  rotate: false
+  xy: 1205, 39
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: 3
+spinner
+  rotate: false
+  xy: 1226, 39
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: 4
+spinner
+  rotate: false
+  xy: 1247, 39
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: 5
+spinner
+  rotate: false
+  xy: 1268, 39
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: 6
+spinner
+  rotate: false
+  xy: 1289, 39
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: 7
+enemyShip1
+  rotate: false
+  xy: 1310, 36
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+atmosphericShip2
+  rotate: false
+  xy: 1330, 32
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: 1
+atmosphericShip2
+  rotate: false
+  xy: 1349, 32
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: 2
+player
+  rotate: false
+  xy: 1368, 34
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: 0
+spinner
+  rotate: false
+  xy: 1387, 41
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: 0
+heli
+  rotate: false
+  xy: 1408, 43
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: 0
+heli
+  rotate: false
+  xy: 1429, 43
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: 1
+heli
+  rotate: false
+  xy: 1450, 43
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: 2
+heli
+  rotate: false
+  xy: 1471, 43
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: 3
+bigBullet
+  rotate: false
+  xy: 929, 0
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1
+artilleryProjectile
+  rotate: false
+  xy: 707, 0
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+projectileTrackingMissile
+  rotate: false
+  xy: 717, 0
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+missile2
+  rotate: false
+  xy: 726, 0
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+projectileTriangle
+  rotate: false
+  xy: 1492, 46
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+projectileEnemyShip
+  rotate: false
+  xy: 396, 8
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+missile5
+  rotate: false
+  xy: 941, 16
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+missile1
+  rotate: false
+  xy: 734, 3
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+missile3
+  rotate: false
+  xy: 1506, 50
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+projectileRedBall
+  rotate: false
+  xy: 403, 9
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+missile4
+  rotate: false
+  xy: 941, 3
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+projectileRedBall2
+  rotate: false
+  xy: 109, 9
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1

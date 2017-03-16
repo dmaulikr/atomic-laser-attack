@@ -1,0 +1,33 @@
+
+MainMenuUI.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+MainMenuBackground
+  rotate: false
+  xy: 0, 83
+  size: 272, 160
+  orig: 272, 160
+  offset: 0, 0
+  index: -1
+pauseMenuBackground
+  rotate: false
+  xy: 0, 1
+  size: 136, 80
+  orig: 136, 80
+  offset: 0, 0
+  index: -1
+levelButton
+  rotate: false
+  xy: 272, 193
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+buttonSmall
+  rotate: false
+  xy: 136, 49
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
