@@ -1,6 +1,8 @@
 # atomic-laser-attack
 
-Atomic Laser Attack android game made with Libgdx
+Atomic Laser Attack android game made with Libgdx  
+
+https://play.google.com/store/apps/details?id=com.atomic.attack
 
 Credits:
 
